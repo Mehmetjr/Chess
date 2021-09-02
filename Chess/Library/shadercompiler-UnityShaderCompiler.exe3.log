@@ -1,0 +1,83 @@
+Base path: 'C:/Program Files/Unity/Editor/Data', plugins path 'C:/Program Files/Unity/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=2549 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=12091 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=14406 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=14406 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=14406 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=14406 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=14406 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=14406 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=14406 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=14406 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=14406 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=14406 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=26648 outsize=15981 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9347 outsize=12684 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=4918 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=7423 outsize=1333 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18299 outsize=8523 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18299 outsize=10714 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1834 outsize=967 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20012 outsize=14051 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=3022 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=7704 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=857 outsize=574 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=34508 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=34508 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=17193 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=5089 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=3043 outsize=2697 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=7712 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/ShaderLibrary/ShaderVariablesFunctions.hlsl(174): undeclared identifier 'CreateWorldToTangent'
+  api=4 insize=3918 outsize=0 ok=0
